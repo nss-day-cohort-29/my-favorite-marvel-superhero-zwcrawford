@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(133, 93, 197);
+    margin: auto;
+    max-width: 800px;
+    text-align: center;
+}
+h1, p{
+    color: silver;
+    text-justify: center;
+}
